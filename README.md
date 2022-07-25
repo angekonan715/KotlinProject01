@@ -8,7 +8,7 @@ their gpa. It also help us to demonstrate the use of class
 function and attribute in Kotlin.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/XP0EljcvyZU)
 
 # Development Environment
 - IntelliJ
